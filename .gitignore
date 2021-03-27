@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: 2021 codedust <codedust@so.urceco.de>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+package-lock.json
+node_modules
+*.ignore

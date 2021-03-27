@@ -1,0 +1,13 @@
+# SPDX-FileCopyrightText: 2021 codedust <codedust@so.urceco.de>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+[submodule "js-base64"]
+	path = js-base64
+	url = https://github.com/dankogai/js-base64
+[submodule "panva-jose"]
+	path = panva-jose
+	url = git@github.com:panva/jose.git
+[submodule "js-jose"]
+	path = js-jose
+	url = https://github.com/square/js-jose

@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: JWE file encryption demo
+Upstream-Contact: codedust <codedust@so.urceco.de>
+Source: jwe-file-encryption-demo
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: js-base64/*
+Copyright: 2014 Dan Kogai
+License: BSD-3-Clause
